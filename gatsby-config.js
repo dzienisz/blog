@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Kamil Dzieniszewski - JavaScript, Event Managment, Consulting`,
+    title: `JavaScript, Event Managment, Consulting`,
     author: {
       name: `Kamil Dzieniszewski`,
       summary: `who lives and works in Warsaw building useful things.`,
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Kamil Blog`,
+        short_name: `Kamil Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
